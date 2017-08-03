@@ -1,0 +1,24 @@
+{
+  "name": "material-design-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plex79/material-design-lite.git"
+  },
+  "author": "plex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plex79/material-design-lite/issues"
+  },
+  "homepage": "https://github.com/plex79/material-design-lite#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}

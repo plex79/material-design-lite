@@ -10,8 +10,9 @@ body {
 	display: -ms-flex;
 	display: -o-flex;
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 	align-items: center;
-	flex-direction: column;
+	flex-direction: row;
+	flex-wrap: wrap;
 	color: white;
 }
